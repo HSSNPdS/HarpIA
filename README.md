@@ -1,2 +1,2 @@
 # HarpIA
-Aplicação Web/Mobile para denûncias anônimas
+API para reconhecimento de animais silvestres por imagens
